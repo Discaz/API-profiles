@@ -1,4 +1,4 @@
-# starwars-api
+# characters-api
 
 Project2-Wild code School- characters open-source REST API
 
