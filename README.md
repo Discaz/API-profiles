@@ -4,7 +4,7 @@ Project2-Wild code School- characters open-source REST API
 
 ### base url
 
-`https://melroune.github.io/starwars-api/api`
+`https://discaz.github.io/API-profiles/api/all.json
 
 ### [routes](#routes-1)
 
